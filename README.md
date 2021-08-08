@@ -1,0 +1,3 @@
+This a weather dashboard with search inputs. It allow the user to search for a city who will then be presented with current and future conditions for that city and that city is
+added to the search history. WHEN the user has the current weather conditions for that city they are presented with the city name, the date, an icon representation of weather 
+conditions, the temperature, the humidity, the wind speed. WHEN the user views future weather conditions for that city they are presented with a several day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity.
